@@ -1,8 +1,8 @@
+[![Header](https://raw.githubusercontent.com/szilu/szilu/master/cover.jpg "Header")](https://products.symbion.hu/)
+
 ### Hi there 👋
 
 <!--
-**szilu/szilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
